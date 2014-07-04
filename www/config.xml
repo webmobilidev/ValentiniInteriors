@@ -1,16 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.cigna.Cigna" version="1.0.18.3" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Cigna</name>
+<widget id="com.valentiniinteriors.ValentiniInteriors" version="1.0.52" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Valentini Interiors</name>
     <description>
-Questa applicazione ti permette di portare sempre con te, sul tuo Smartphone o Tablet, il catalogo d'arredamento di Cigna, il tuo negozio di fiducia di design a Torino (TO).
-Ricerca le finiture per la tua casa attraverso le categorie di prodotto (arredo bagno, piastrelle, sanitari, rubinetteria, idromassaggio, porte, finestre, parquet, termoarredo) o con la ricerca testuale libera. 
-Sfoglia le migliori marche proposte da Cigna. 
+Questa applicazione ti permette di portare sempre con te, sul tuo Smartphone o Tablet, il catalogo d'arredamento di Valentini Interiors, il tuo negozio di fiducia di design a Cadoneghe (Padova)
+Ricerca l'arredo di design per la tua casa attraverso le categorie di prodotto (tavoli, sedie, divani, etc.) o con la ricerca testuale libera. Sfoglia le migliori marche di design italiano ed internazionale proposte da Valentini Interiors. 
 Tieniti aggiornato con tutte le novità presentate alle fiere di settore nell'apposita sezione Novità.
-All'interno delle schede prodotto trova tutti i dettagli utili per orientarti nella tua scelta: nome e descrizione del prodotto, misure, materiali e caratteristiche. 
-Con la gallery guarda il prodotto da te selezionato nei minimi dettagli.
+All'interno delle schede prodotto trova tutti i dettagli utili per orientarti nella tua scelta: nome e descrizione del prodotto, misure, materiali e caratteristiche. Con la gallery guarda il prodotto d'arredo da te selezionato nei minimi dettagli.
 </description>
-    <author email="info@cignaviadeimille.com" href="http://www.cignaviadeimille.com">
-        Cigna
+    <author email="info@valentini-interiors.it" href="http://www.valentini-interiors.it">
+        Valentini Interiors
     </author>
     <gap:plugin name="org.apache.cordova.device" />
 	<gap:plugin name="org.apache.cordova.network-information" />
